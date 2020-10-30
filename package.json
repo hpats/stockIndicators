@@ -1,0 +1,25 @@
+{
+  "name": "stock_indicators",
+  "version": "1.0.0",
+  "description": "Indicators for stock analysis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpats/stockIndicators.git"
+  },
+  "keywords": [
+    "stock",
+    "indicators",
+    "market",
+    "trading"
+  ],
+  "author": "hp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpats/stockIndicators/issues"
+  },
+  "homepage": "https://github.com/hpats/stockIndicators#readme"
+}
